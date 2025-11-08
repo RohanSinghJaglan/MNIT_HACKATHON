@@ -1,0 +1,10 @@
+streamlit
+fastmcp
+langchain
+langchain-core
+langchain-google-genai
+langchain-mcp-adapters
+langgraph
+python-dotenv
+pydantic
+mcp-use
